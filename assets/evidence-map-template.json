@@ -1,0 +1,34 @@
+{
+  "title": "",
+  "source": {
+    "title": "",
+    "authors": [],
+    "date": "",
+    "location": "",
+    "license_or_rights_note": ""
+  },
+  "central_question": "",
+  "claims": [
+    {
+      "id": "claim-01",
+      "claim": "",
+      "support_location": "",
+      "support_level": "direct",
+      "required_qualification": "",
+      "planned_use": ""
+    }
+  ],
+  "interpretations": [
+    {
+      "interpretation": "",
+      "derived_from_claim_ids": [],
+      "spoken_label": "Host interpretation"
+    }
+  ],
+  "excluded_or_uncertain": [
+    {
+      "statement": "",
+      "reason": ""
+    }
+  ]
+}

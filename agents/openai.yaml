@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Research Podcast"
+  short_description: "Turn source material into a grounded podcast"
+  default_prompt: "Use $create-research-podcast to turn this paper into an accessible two-host podcast script."
